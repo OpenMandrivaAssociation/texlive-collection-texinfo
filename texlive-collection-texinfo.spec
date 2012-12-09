@@ -34,3 +34,12 @@ Live; get the original Texinfo package for your system.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780511
+- Update to latest release.
+- Import texlive-collection-texinfo
+- Import texlive-collection-texinfo
+
