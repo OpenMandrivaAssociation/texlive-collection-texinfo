@@ -7,7 +7,7 @@
 Name:		texlive-collection-texinfo
 Epoch:		1
 Version:	20120224
-Release:	3
+Release:	4
 Summary:	GNU Texinfo
 Group:		Publishing
 URL:		http://tug.org/texlive
