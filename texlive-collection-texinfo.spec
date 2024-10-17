@@ -10,7 +10,7 @@ Version:	20120224
 Release:	11
 Summary:	GNU Texinfo
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-texinfo.tar.xz
 BuildArch:	noarch
